@@ -1,0 +1,30 @@
+.title {
+    margin-right:50px;
+    margin-top:21px;
+    margin-bottom: 10px;
+}
+
+.selection-bar { 
+    background-color: rgba(254, 253, 254, 1);
+}
+
+.selection-bar td {
+    padding:20px
+}
+
+.selection-bar td a:link { 
+    text-align:center;
+    text-decoration:none;
+    color:#7A7BA6;
+
+}
+
+.selection-bar ul { 
+    text-align: left;
+}
+
+#fitness-vid {
+    position:fixed;
+    right: 0;
+    bottom: 0;
+}
