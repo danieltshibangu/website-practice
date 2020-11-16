@@ -1,0 +1,108 @@
+
+.title { 
+	font-style: italic;
+	text-align: left;
+	font-size: 70px;
+	color: #6288D1;
+	margin-left: 160px;
+	padding-bottom: 0px;
+}
+
+body {
+	background-color: #f3b0b2;
+}
+
+.topmenu {
+	margin-top: -50px;
+	margin-left: 500px;
+	border: 5px dotted black
+}
+
+.selection table {
+	border: 3px groove blue;
+	width: 200px;
+	height: 400px;
+}
+
+.selection table tr  {
+	border: 2px groove gray;
+}
+
+.selection img {
+	width: 70px;
+	height: 70px;
+	float: left;
+}
+
+.selection p {
+	float: left;
+	font-weight:bold; 
+}
+
+.selectbox {
+	font-weight:bold; 
+	font-style:italic; 
+	border: 5px solid #202389;
+	padding: 5px 10px 5px 10px;
+	font-size: 20px;
+	background-color: #C9A5F4;
+	width: 50px;
+}
+
+.menufiller {
+	background-color:#202389;
+	width: 10px;
+	height: 20px;
+}
+
+.menuarrow {
+	background-color: #222491;
+	width: 10px;
+	height: 20px;
+}
+
+.menuname {
+	color: white;
+	background-color:#202389;
+	font-weight: bold;
+	text-decoration: underline;
+	width: 100px;
+	height: 20px;
+	position: right;
+}
+
+#menu {
+	border: 5px dotted black;
+}
+
+.center-img {
+	text-align: right;
+	border: 5px solid #202389;
+	float: left;
+	margin-left: 500px;
+	margin-top: 100px;	
+	
+}
+
+.image-title {
+	font-style: italic;
+	float: left;
+	margin-top: 200px;	
+}
+
+.info-panel {
+	border: 4px groove #9C8892;
+	height: 200px;
+	bottom: 0
+}
+
+#footer {
+	background-color: black;
+	height: 50px;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-image: linear-gradient( #9B9DDA, #040406 );
+}
